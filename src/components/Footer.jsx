@@ -5,7 +5,7 @@ import { Linkedin, Instagram, Facebook } from "lucide-react";
 
 export default function Footer() {
     return (
-       <footer className="bg-navy-blue absolute bottom-0 w-full text-white">
+       <footer className="bg-navy-blue w-full text-white">
         <div className=" flex flex-col items-center p-4">
         <h1><span>Event</span> <span className="text-blue-300 font-bold">Hive</span></h1>
         <form>
